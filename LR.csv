@@ -1,0 +1,892 @@
+index,Region,Country,Year,Age,Gender,Literacy rate
+0,Central and Southern Asia,Afghanistan,2011,15+,female,0.1761205999999999
+1,Central and Southern Asia,Afghanistan,2011,15+,male,0.4541709999999999
+2,Central and Southern Asia,Afghanistan,2011,15+,total,0.3174112
+3,Central and Southern Asia,Afghanistan,2011,15-24,female,0.3211321999999999
+4,Central and Southern Asia,Afghanistan,2011,15-24,male,0.6187907
+5,Central and Southern Asia,Afghanistan,2011,15-24,total,0.4699004999999999
+6,Central and Southern Asia,Afghanistan,2011,25-64,female,0.0841276
+7,Central and Southern Asia,Afghanistan,2011,25-64,male,0.3779481
+8,Central and Southern Asia,Afghanistan,2011,25-64,total,0.2315362
+9,Central and Southern Asia,Afghanistan,2011,65+,female,0.1967049
+10,Central and Southern Asia,Afghanistan,2011,65+,total,0.2032185
+11,Central and Southern Asia,Afghanistan,2018,15+,female,0.2980520999999999
+12,Central and Southern Asia,Afghanistan,2018,15+,male,0.5547545
+13,Central and Southern Asia,Afghanistan,2018,15+,total,0.4301972
+14,Central and Southern Asia,Afghanistan,2018,15-24,female,0.5625474999999999
+15,Central and Southern Asia,Afghanistan,2018,15-24,male,0.740848
+16,Central and Southern Asia,Afghanistan,2018,15-24,total,0.6542055000000001
+17,Central and Southern Asia,Afghanistan,2018,25-64,female,0.1433138999999999
+18,Central and Southern Asia,Afghanistan,2018,25-64,male,0.4538401999999999
+19,Central and Southern Asia,Afghanistan,2018,25-64,total,0.3045785
+20,Central and Southern Asia,Afghanistan,2018,65+,female,0.0347429
+21,Central and Southern Asia,Afghanistan,2018,65+,male,0.2474501
+22,Central and Southern Asia,Afghanistan,2018,65+,total,0.1333184
+23,Central and Southern Asia,Bangladesh,2011,15+,female,0.5511943999999999
+24,Central and Southern Asia,Bangladesh,2011,15+,male,0.6248306
+25,Central and Southern Asia,Bangladesh,2011,15+,total,0.5876917999999999
+26,Central and Southern Asia,Bangladesh,2011,15-24,female,0.7954449
+27,Central and Southern Asia,Bangladesh,2011,15-24,male,0.7640340000000001
+28,Central and Southern Asia,Bangladesh,2011,15-24,total,0.7798498999999999
+29,Central and Southern Asia,Bangladesh,2011,25-64,female,0.4806526999999999
+30,Central and Southern Asia,Bangladesh,2011,25-64,male,0.5854189
+31,Central and Southern Asia,Bangladesh,2011,25-64,total,0.5323881999999999
+32,Central and Southern Asia,Bangladesh,2011,65+,female,0.1843055
+33,Central and Southern Asia,Bangladesh,2011,65+,male,0.4150517
+34,Central and Southern Asia,Bangladesh,2011,65+,total,0.3019119
+35,Central and Southern Asia,Bangladesh,2012,15+,female,0.5423604
+36,Central and Southern Asia,Bangladesh,2012,15+,male,0.6154287
+37,Central and Southern Asia,Bangladesh,2012,15+,total,0.5786075
+38,Central and Southern Asia,Bangladesh,2012,15-24,female,0.793692
+39,Central and Southern Asia,Bangladesh,2012,15-24,male,0.7627630999999999
+40,Central and Southern Asia,Bangladesh,2012,15-24,total,0.7783291
+41,Central and Southern Asia,Bangladesh,2012,25-64,female,0.4722050999999999
+42,Central and Southern Asia,Bangladesh,2012,25-64,male,0.5741007999999999
+43,Central and Southern Asia,Bangladesh,2012,25-64,total,0.5225135
+44,Central and Southern Asia,Bangladesh,2012,65+,female,0.1408031
+45,Central and Southern Asia,Bangladesh,2012,65+,male,0.3947337999999999
+46,Central and Southern Asia,Bangladesh,2012,65+,total,0.2718105
+47,Central and Southern Asia,Bangladesh,2013,15+,female,0.57789
+48,Central and Southern Asia,Bangladesh,2013,15+,male,0.6421376999999999
+49,Central and Southern Asia,Bangladesh,2013,15+,total,0.6101554
+50,Central and Southern Asia,Bangladesh,2013,15-24,female,0.8692579
+51,Central and Southern Asia,Bangladesh,2013,15-24,male,0.8409449999999999
+52,Central and Southern Asia,Bangladesh,2013,15-24,total,0.8552715
+53,Central and Southern Asia,Bangladesh,2013,25-64,female,0.4892493
+54,Central and Southern Asia,Bangladesh,2013,25-64,male,0.5856812
+55,Central and Southern Asia,Bangladesh,2013,25-64,total,0.5373964999999999
+56,Central and Southern Asia,Bangladesh,2013,65+,female,0.1530413999999999
+57,Central and Southern Asia,Bangladesh,2013,65+,male,0.4008797
+58,Central and Southern Asia,Bangladesh,2013,65+,total,0.2932688
+59,Central and Southern Asia,Bangladesh,2014,15+,female,0.5786092999999999
+60,Central and Southern Asia,Bangladesh,2014,15+,male,0.6436508999999999
+61,Central and Southern Asia,Bangladesh,2014,15+,total,0.610933
+62,Central and Southern Asia,Bangladesh,2014,15-24,female,0.8648067
+63,Central and Southern Asia,Bangladesh,2014,15-24,male,0.8462868
+64,Central and Southern Asia,Bangladesh,2014,15-24,total,0.8555473
+65,Central and Southern Asia,Bangladesh,2014,25-64,female,0.4988794999999999
+66,Central and Southern Asia,Bangladesh,2014,25-64,male,0.5874759
+67,Central and Southern Asia,Bangladesh,2014,25-64,total,0.5425126
+68,Central and Southern Asia,Bangladesh,2014,65+,female,0.2285389999999999
+69,Central and Southern Asia,Bangladesh,2014,65+,male,0.4045049
+70,Central and Southern Asia,Bangladesh,2014,65+,total,0.3214683999999999
+71,Central and Southern Asia,Bangladesh,2015,15+,female,0.6225298999999999
+72,Central and Southern Asia,Bangladesh,2015,15+,male,0.6805535999999999
+73,Central and Southern Asia,Bangladesh,2015,15+,total,0.6513733
+74,Central and Southern Asia,Bangladesh,2015,15-24,female,0.8953506
+75,Central and Southern Asia,Bangladesh,2015,15-24,male,0.8618795
+76,Central and Southern Asia,Bangladesh,2015,15-24,total,0.8788876999999999
+77,Central and Southern Asia,Bangladesh,2015,25-64,female,0.5518569999999999
+78,Central and Southern Asia,Bangladesh,2015,25-64,male,0.6363317
+79,Central and Southern Asia,Bangladesh,2015,25-64,total,0.5936339
+80,Central and Southern Asia,Bangladesh,2015,65+,female,0.1927993
+81,Central and Southern Asia,Bangladesh,2015,65+,male,0.4282918999999999
+82,Central and Southern Asia,Bangladesh,2015,65+,total,0.3209923
+83,Central and Southern Asia,Bangladesh,2016,15+,female,0.6989720999999999
+84,Central and Southern Asia,Bangladesh,2016,15+,male,0.7561884999999999
+85,Central and Southern Asia,Bangladesh,2016,15+,total,0.7275871999999999
+86,Central and Southern Asia,Bangladesh,2016,15-24,female,0.9353532
+87,Central and Southern Asia,Bangladesh,2016,15-24,male,0.9090535
+88,Central and Southern Asia,Bangladesh,2016,15-24,total,0.9224265
+89,Central and Southern Asia,Bangladesh,2016,25-64,female,0.6415068999999999
+90,Central and Southern Asia,Bangladesh,2016,25-64,male,0.7201342
+91,Central and Southern Asia,Bangladesh,2016,25-64,total,0.6807324
+92,Central and Southern Asia,Bangladesh,2016,65+,female,0.2502289999999999
+93,Central and Southern Asia,Bangladesh,2016,65+,male,0.5244415
+94,Central and Southern Asia,Bangladesh,2016,65+,total,0.4004648
+95,Central and Southern Asia,Bangladesh,2017,15+,female,0.700857
+96,Central and Southern Asia,Bangladesh,2017,15+,male,0.7570236
+97,Central and Southern Asia,Bangladesh,2017,15+,total,0.7289297
+98,Central and Southern Asia,Bangladesh,2017,15-24,female,0.9437776
+99,Central and Southern Asia,Bangladesh,2017,15-24,male,0.9154129
+100,Central and Southern Asia,Bangladesh,2017,15-24,total,0.9295076
+101,Central and Southern Asia,Bangladesh,2017,25-64,female,0.6501461999999999
+102,Central and Southern Asia,Bangladesh,2017,25-64,male,0.7207032999999999
+103,Central and Southern Asia,Bangladesh,2017,25-64,total,0.6852086
+104,Central and Southern Asia,Bangladesh,2017,65+,female,0.2716704999999999
+105,Central and Southern Asia,Bangladesh,2017,65+,male,0.5108920999999998
+106,Central and Southern Asia,Bangladesh,2017,65+,total,0.3946718
+107,Central and Southern Asia,Bangladesh,2018,15+,female,0.7118193999999999
+108,Central and Southern Asia,Bangladesh,2018,15+,male,0.7666926
+109,Central and Southern Asia,Bangladesh,2018,15+,total,0.739122
+110,Central and Southern Asia,Bangladesh,2018,15-24,female,0.9491259
+111,Central and Southern Asia,Bangladesh,2018,15-24,male,0.9180372
+112,Central and Southern Asia,Bangladesh,2018,15-24,total,0.9329644
+113,Central and Southern Asia,Bangladesh,2018,25-64,female,0.6682162999999999
+114,Central and Southern Asia,Bangladesh,2018,25-64,male,0.7283193
+115,Central and Southern Asia,Bangladesh,2018,25-64,total,0.6975239
+116,Central and Southern Asia,Bangladesh,2018,65+,female,0.2676438999999999
+117,Central and Southern Asia,Bangladesh,2018,65+,male,0.530741
+118,Central and Southern Asia,Bangladesh,2018,65+,total,0.4012044999999999
+119,Central and Southern Asia,Bhutan,2012,15+,female,0.4801655999999999
+120,Central and Southern Asia,Bhutan,2012,15+,male,0.6600306
+121,Central and Southern Asia,Bhutan,2012,15+,total,0.570336
+122,Central and Southern Asia,Bhutan,2012,15-24,female,0.8448774
+123,Central and Southern Asia,Bhutan,2012,15-24,male,0.9039581
+124,Central and Southern Asia,Bhutan,2012,15-24,total,0.8731836
+125,Central and Southern Asia,Bhutan,2012,25-64,female,0.3561216999999999
+126,Central and Southern Asia,Bhutan,2012,25-64,male,0.6149388
+127,Central and Southern Asia,Bhutan,2012,25-64,total,0.4870709
+128,Central and Southern Asia,Bhutan,2012,65+,female,0.0386781
+129,Central and Southern Asia,Bhutan,2012,65+,male,0.2428077
+130,Central and Southern Asia,Bhutan,2012,65+,total,0.1493796
+131,Central and Southern Asia,Bhutan,2017,15+,female,0.5708362
+132,Central and Southern Asia,Bhutan,2017,15+,male,0.7501985000000001
+133,Central and Southern Asia,Bhutan,2017,15+,total,0.6656115
+134,Central and Southern Asia,Bhutan,2017,15-24,female,0.9289112
+135,Central and Southern Asia,Bhutan,2017,15-24,male,0.9327016
+136,Central and Southern Asia,Bhutan,2017,15-24,total,0.9309063
+137,Central and Southern Asia,Bhutan,2017,25-64,female,0.4842457
+138,Central and Southern Asia,Bhutan,2017,25-64,male,0.7219546
+139,Central and Southern Asia,Bhutan,2017,25-64,total,0.6106931999999999
+140,Central and Southern Asia,Bhutan,2017,65+,female,0.0940589
+141,Central and Southern Asia,Bhutan,2017,65+,male,0.3596824999999999
+142,Central and Southern Asia,Bhutan,2017,65+,total,0.2285833999999999
+143,Central and Southern Asia,India,2011,15+,female,0.5927732
+144,Central and Southern Asia,India,2011,15+,male,0.7887722999999999
+145,Central and Southern Asia,India,2011,15+,total,0.6930256
+146,Central and Southern Asia,India,2011,15-24,female,0.8184981
+147,Central and Southern Asia,India,2011,15-24,male,0.9004483
+148,Central and Southern Asia,India,2011,15-24,total,0.8614488
+149,Central and Southern Asia,India,2011,25-64,female,0.5399607
+150,Central and Southern Asia,India,2011,25-64,male,0.7647395
+151,Central and Southern Asia,India,2011,25-64,total,0.6543286999999999
+152,Central and Southern Asia,India,2011,65+,female,0.2669628
+153,Central and Southern Asia,India,2011,65+,male,0.5717636999999999
+154,Central and Southern Asia,India,2011,65+,total,0.4160356999999999
+155,Central and Southern Asia,India,2018,15+,female,0.6579080999999998
+156,Central and Southern Asia,India,2018,15+,male,0.8236670999999999
+157,Central and Southern Asia,India,2018,15+,total,0.7437299
+158,Central and Southern Asia,India,2018,15-24,female,0.9016941
+159,Central and Southern Asia,India,2018,15-24,male,0.9299297
+160,Central and Southern Asia,India,2018,15-24,total,0.9166404
+161,Central and Southern Asia,India,2018,25-64,female,0.6172655
+162,Central and Southern Asia,India,2018,25-64,male,0.8073891999999999
+163,Central and Southern Asia,India,2018,25-64,total,0.7157668999999999
+164,Central and Southern Asia,India,2018,65+,female,0.3028636
+165,Central and Southern Asia,India,2018,65+,male,0.6167022999999999
+166,Central and Southern Asia,India,2018,65+,total,0.4537899
+167,Central and Southern Asia,Iran (Islamic Republic of),2012,15+,female,0.7841626999999999
+168,Central and Southern Asia,Iran (Islamic Republic of),2012,15+,male,0.8887981999999999
+169,Central and Southern Asia,Iran (Islamic Republic of),2012,15+,total,0.8362599
+170,Central and Southern Asia,Iran (Islamic Republic of),2012,15-24,female,0.9766179
+171,Central and Southern Asia,Iran (Islamic Republic of),2012,15-24,male,0.9833392
+172,Central and Southern Asia,Iran (Islamic Republic of),2012,15-24,total,0.980144
+173,Central and Southern Asia,Iran (Islamic Republic of),2012,25-64,female,0.7834703
+174,Central and Southern Asia,Iran (Islamic Republic of),2012,25-64,male,0.9016577
+175,Central and Southern Asia,Iran (Islamic Republic of),2012,25-64,total,0.8412421999999999
+176,Central and Southern Asia,Iran (Islamic Republic of),2012,65+,female,0.2064464999999999
+177,Central and Southern Asia,Iran (Islamic Republic of),2012,65+,male,0.4489144999999999
+178,Central and Southern Asia,Iran (Islamic Republic of),2012,65+,total,0.3261884999999999
+179,Central and Southern Asia,Iran (Islamic Republic of),2013,15+,female,0.7975584000000001
+180,Central and Southern Asia,Iran (Islamic Republic of),2013,15+,male,0.8954248
+181,Central and Southern Asia,Iran (Islamic Republic of),2013,15+,total,0.846268
+182,Central and Southern Asia,Iran (Islamic Republic of),2013,15-24,female,0.9743798
+183,Central and Southern Asia,Iran (Islamic Republic of),2013,15-24,male,0.9810902
+184,Central and Southern Asia,Iran (Islamic Republic of),2013,15-24,total,0.977773
+185,Central and Southern Asia,Iran (Islamic Republic of),2013,25-64,female,0.8041680999999999
+186,Central and Southern Asia,Iran (Islamic Republic of),2013,25-64,male,0.9125407
+187,Central and Southern Asia,Iran (Islamic Republic of),2013,25-64,total,0.8579419999999999
+188,Central and Southern Asia,Iran (Islamic Republic of),2013,65+,female,0.2246233
+189,Central and Southern Asia,Iran (Islamic Republic of),2013,65+,male,0.4660938
+190,Central and Southern Asia,Iran (Islamic Republic of),2013,65+,total,0.3425026999999999
+191,Central and Southern Asia,Iran (Islamic Republic of),2014,15+,female,0.7983934999999999
+192,Central and Southern Asia,Iran (Islamic Republic of),2014,15+,male,0.8963541999999999
+193,Central and Southern Asia,Iran (Islamic Republic of),2014,15+,total,0.8470524
+194,Central and Southern Asia,Iran (Islamic Republic of),2014,15-24,female,0.9767817
+195,Central and Southern Asia,Iran (Islamic Republic of),2014,15-24,male,0.9819154
+196,Central and Southern Asia,Iran (Islamic Republic of),2014,15-24,total,0.9793787
+197,Central and Southern Asia,Iran (Islamic Republic of),2014,25-64,female,0.8084387
+198,Central and Southern Asia,Iran (Islamic Republic of),2014,25-64,male,0.9140845
+199,Central and Southern Asia,Iran (Islamic Republic of),2014,25-64,total,0.8607833999999999
+200,Central and Southern Asia,Iran (Islamic Republic of),2014,65+,female,0.22445
+201,Central and Southern Asia,Iran (Islamic Republic of),2014,65+,male,0.4697359
+202,Central and Southern Asia,Iran (Islamic Republic of),2014,65+,total,0.3428903999999999
+203,Central and Southern Asia,Iran (Islamic Republic of),2016,15+,female,0.8078743999999999
+204,Central and Southern Asia,Iran (Islamic Republic of),2016,15+,male,0.9035241
+205,Central and Southern Asia,Iran (Islamic Republic of),2016,15+,total,0.8554425000000001
+206,Central and Southern Asia,Iran (Islamic Republic of),2016,15-24,female,0.9792513
+207,Central and Southern Asia,Iran (Islamic Republic of),2016,15-24,male,0.9826797
+208,Central and Southern Asia,Iran (Islamic Republic of),2016,15-24,total,0.9810135
+209,Central and Southern Asia,Iran (Islamic Republic of),2016,25-64,female,0.8259800999999999
+210,Central and Southern Asia,Iran (Islamic Republic of),2016,25-64,male,0.9226007
+211,Central and Southern Asia,Iran (Islamic Republic of),2016,25-64,total,0.8738487
+212,Central and Southern Asia,Iran (Islamic Republic of),2016,65+,female,0.2488207999999999
+213,Central and Southern Asia,Iran (Islamic Republic of),2016,65+,male,0.4994368999999999
+214,Central and Southern Asia,Iran (Islamic Republic of),2016,65+,total,0.3677053
+215,Central and Southern Asia,Kazakhstan,2010,15+,female,0.9973899
+216,Central and Southern Asia,Kazakhstan,2010,15+,male,0.9982968
+217,Central and Southern Asia,Kazakhstan,2010,15+,total,0.9978163
+218,Central and Southern Asia,Kazakhstan,2010,15-24,female,0.9985091
+219,Central and Southern Asia,Kazakhstan,2010,15-24,male,0.9994014
+220,Central and Southern Asia,Kazakhstan,2010,15-24,total,0.9989736
+221,Central and Southern Asia,Kazakhstan,2010,25-64,female,0.9974727
+222,Central and Southern Asia,Kazakhstan,2010,25-64,male,0.9983287
+223,Central and Southern Asia,Kazakhstan,2010,25-64,total,0.9978774
+224,Central and Southern Asia,Kazakhstan,2010,65+,female,0.9952126
+225,Central and Southern Asia,Kazakhstan,2010,65+,male,0.9944912
+226,Central and Southern Asia,Kazakhstan,2010,65+,total,0.9949632
+227,Central and Southern Asia,Kyrgyzstan,2018,15+,female,0.9949972
+228,Central and Southern Asia,Kyrgyzstan,2018,15+,male,0.9967701
+229,Central and Southern Asia,Kyrgyzstan,2018,15+,total,0.99586
+230,Central and Southern Asia,Kyrgyzstan,2018,15-24,female,0.9981
+231,Central and Southern Asia,Kyrgyzstan,2018,15-24,male,0.9969
+232,Central and Southern Asia,Kyrgyzstan,2018,15-24,total,0.9975
+233,Central and Southern Asia,Kyrgyzstan,2018,25-64,female,0.9978392
+234,Central and Southern Asia,Kyrgyzstan,2018,25-64,male,0.9974627
+235,Central and Southern Asia,Kyrgyzstan,2018,25-64,total,0.9976552
+236,Central and Southern Asia,Kyrgyzstan,2018,65+,female,0.9616295
+237,Central and Southern Asia,Kyrgyzstan,2018,65+,male,0.987103
+238,Central and Southern Asia,Kyrgyzstan,2018,65+,total,0.9713379
+239,Central and Southern Asia,Maldives,2014,15+,female,0.9869167
+240,Central and Southern Asia,Maldives,2014,15+,male,0.9852034
+241,Central and Southern Asia,Maldives,2014,15+,total,0.9861012
+242,Central and Southern Asia,Maldives,2014,15-24,female,0.9943955
+243,Central and Southern Asia,Maldives,2014,15-24,male,0.9908133
+244,Central and Southern Asia,Maldives,2014,15-24,total,0.9926837999999998
+245,Central and Southern Asia,Maldives,2014,25-64,female,0.9901342
+246,Central and Southern Asia,Maldives,2014,25-64,male,0.9890561
+247,Central and Southern Asia,Maldives,2014,25-64,total,0.9896275
+248,Central and Southern Asia,Maldives,2014,65+,female,0.921363
+249,Central and Southern Asia,Maldives,2014,65+,male,0.9331756
+250,Central and Southern Asia,Maldives,2014,65+,total,0.9275723
+251,Central and Southern Asia,Maldives,2016,15+,female,0.9811471
+252,Central and Southern Asia,Maldives,2016,15+,male,0.9729893
+253,Central and Southern Asia,Maldives,2016,15+,total,0.9773495
+254,Central and Southern Asia,Maldives,2016,15-24,female,0.9908863
+255,Central and Southern Asia,Maldives,2016,15-24,male,0.9839115
+256,Central and Southern Asia,Maldives,2016,15-24,total,0.9875365
+257,Central and Southern Asia,Maldives,2016,25-64,female,0.9857746
+258,Central and Southern Asia,Maldives,2016,25-64,male,0.9763757
+259,Central and Southern Asia,Maldives,2016,25-64,total,0.9815238
+260,Central and Southern Asia,Maldives,2016,65+,female,0.8909256000000001
+261,Central and Southern Asia,Maldives,2016,65+,male,0.912063
+262,Central and Southern Asia,Maldives,2016,65+,total,0.9023111
+263,Central and Southern Asia,Nepal,2011,15+,female,0.4883758999999999
+264,Central and Southern Asia,Nepal,2011,15+,male,0.7170838
+265,Central and Southern Asia,Nepal,2011,15+,total,0.5962724999999999
+266,Central and Southern Asia,Nepal,2011,15-24,female,0.8020682999999998
+267,Central and Southern Asia,Nepal,2011,15-24,male,0.8988402
+268,Central and Southern Asia,Nepal,2011,15-24,total,0.8475714999999999
+269,Central and Southern Asia,Nepal,2011,25-64,female,0.3849667
+270,Central and Southern Asia,Nepal,2011,25-64,male,0.6764494
+271,Central and Southern Asia,Nepal,2011,25-64,total,0.521677
+272,Central and Southern Asia,Nepal,2011,65+,female,0.0602554
+273,Central and Southern Asia,Nepal,2011,65+,male,0.3563503999999999
+274,Central and Southern Asia,Nepal,2011,65+,total,0.2078409
+275,Central and Southern Asia,Nepal,2018,15+,female,0.5972443
+276,Central and Southern Asia,Nepal,2018,15+,male,0.7859133999999999
+277,Central and Southern Asia,Nepal,2018,15+,total,0.6790842999999999
+278,Central and Southern Asia,Nepal,2018,15-24,female,0.9088347
+279,Central and Southern Asia,Nepal,2018,15-24,male,0.9403428
+280,Central and Southern Asia,Nepal,2018,15-24,total,0.9239381
+281,Central and Southern Asia,Nepal,2018,25-64,female,0.5134549999999999
+282,Central and Southern Asia,Nepal,2018,25-64,male,0.7444488
+283,Central and Southern Asia,Nepal,2018,25-64,total,0.6071325
+284,Central and Southern Asia,Nepal,2018,65+,female,0.0865249
+285,Central and Southern Asia,Nepal,2018,65+,male,0.4150308999999999
+286,Central and Southern Asia,Nepal,2018,65+,total,0.2362915999999999
+287,Central and Southern Asia,Pakistan,2010,15+,female,0.4101553
+288,Central and Southern Asia,Pakistan,2010,15+,male,0.6890061
+289,Central and Southern Asia,Pakistan,2010,15+,total,0.5537519
+290,Central and Southern Asia,Pakistan,2010,15-24,female,0.6229837
+291,Central and Southern Asia,Pakistan,2010,15-24,male,0.7950414000000001
+292,Central and Southern Asia,Pakistan,2010,15-24,total,0.7125962
+293,Central and Southern Asia,Pakistan,2010,25-64,female,0.3098942
+294,Central and Southern Asia,Pakistan,2010,25-64,male,0.6610506999999999
+295,Central and Southern Asia,Pakistan,2010,25-64,total,0.4868410999999999
+296,Central and Southern Asia,Pakistan,2010,65+,female,0.2375533
+297,Central and Southern Asia,Pakistan,2010,65+,male,0.3577518
+298,Central and Southern Asia,Pakistan,2010,65+,total,0.2485195999999999
+299,Central and Southern Asia,Pakistan,2011,15+,female,0.4197538999999999
+300,Central and Southern Asia,Pakistan,2011,15+,male,0.6699114
+301,Central and Southern Asia,Pakistan,2011,15+,total,0.5473801999999999
+302,Central and Southern Asia,Pakistan,2011,15-24,female,0.6313680999999999
+303,Central and Southern Asia,Pakistan,2011,15-24,male,0.7804242000000001
+304,Central and Southern Asia,Pakistan,2011,15-24,total,0.7076932999999999
+305,Central and Southern Asia,Pakistan,2011,25-64,female,0.3191161
+306,Central and Southern Asia,Pakistan,2011,25-64,male,0.6411115
+307,Central and Southern Asia,Pakistan,2011,25-64,total,0.4802751
+308,Central and Southern Asia,Pakistan,2011,65+,female,0.0988372
+309,Central and Southern Asia,Pakistan,2011,65+,male,0.3372525
+310,Central and Southern Asia,Pakistan,2011,65+,total,0.2397586
+311,Central and Southern Asia,Pakistan,2012,15+,female,0.4307189
+312,Central and Southern Asia,Pakistan,2012,15+,male,0.6985822
+313,Central and Southern Asia,Pakistan,2012,15+,total,0.5676434
+314,Central and Southern Asia,Pakistan,2012,15-24,female,0.6447410000000001
+315,Central and Southern Asia,Pakistan,2012,15-24,male,0.8028825999999998
+316,Central and Southern Asia,Pakistan,2012,15-24,total,0.7258341999999999
+317,Central and Southern Asia,Pakistan,2012,25-64,female,0.3266763
+318,Central and Southern Asia,Pakistan,2012,25-64,male,0.6706964
+319,Central and Southern Asia,Pakistan,2012,25-64,total,0.4995342
+320,Central and Southern Asia,Pakistan,2012,65+,female,0.0948671
+321,Central and Southern Asia,Pakistan,2012,65+,male,0.3680466
+322,Central and Southern Asia,Pakistan,2012,65+,total,0.2550245999999999
+323,Central and Southern Asia,Pakistan,2013,15+,female,0.4197493999999999
+324,Central and Southern Asia,Pakistan,2013,15+,male,0.6862933999999999
+325,Central and Southern Asia,Pakistan,2013,15+,total,0.5559499
+326,Central and Southern Asia,Pakistan,2013,15-24,female,0.63438
+327,Central and Southern Asia,Pakistan,2013,15-24,male,0.7940380999999999
+328,Central and Southern Asia,Pakistan,2013,15-24,total,0.7163622
+329,Central and Southern Asia,Pakistan,2013,25-64,female,0.3170222
+330,Central and Southern Asia,Pakistan,2013,25-64,male,0.6578542
+331,Central and Southern Asia,Pakistan,2013,25-64,total,0.487948
+332,Central and Southern Asia,Pakistan,2013,65+,female,0.091318
+333,Central and Southern Asia,Pakistan,2013,65+,male,0.3531457
+334,Central and Southern Asia,Pakistan,2013,65+,total,0.2450797999999999
+335,Central and Southern Asia,Pakistan,2014,15+,female,0.4428342
+336,Central and Southern Asia,Pakistan,2014,15+,male,0.6906681
+337,Central and Southern Asia,Pakistan,2014,15+,total,0.5697714999999999
+338,Central and Southern Asia,Pakistan,2014,15-24,female,0.6554779
+339,Central and Southern Asia,Pakistan,2014,15-24,male,0.7976598
+340,Central and Southern Asia,Pakistan,2014,15-24,total,0.7279539999999999
+341,Central and Southern Asia,Pakistan,2014,25-64,female,0.3377221
+342,Central and Southern Asia,Pakistan,2014,25-64,male,0.6624576999999999
+343,Central and Southern Asia,Pakistan,2014,25-64,total,0.5017696999999999
+344,Central and Southern Asia,Pakistan,2014,65+,female,0.0996258
+345,Central and Southern Asia,Pakistan,2014,65+,male,0.3570520999999999
+346,Central and Southern Asia,Pakistan,2014,65+,total,0.2529323
+347,Central and Southern Asia,Pakistan,2017,15+,female,0.4646767
+348,Central and Southern Asia,Pakistan,2017,15+,male,0.71116
+349,Central and Southern Asia,Pakistan,2017,15+,total,0.5913205
+350,Central and Southern Asia,Pakistan,2017,15-24,female,0.6753713
+351,Central and Southern Asia,Pakistan,2017,15-24,male,0.8126352
+352,Central and Southern Asia,Pakistan,2017,15-24,total,0.7452638
+353,Central and Southern Asia,Pakistan,2017,25-64,female,0.3573591999999999
+354,Central and Southern Asia,Pakistan,2017,25-64,male,0.6838682
+355,Central and Southern Asia,Pakistan,2017,25-64,total,0.5233925
+356,Central and Southern Asia,Pakistan,2017,65+,female,0.1067683
+357,Central and Southern Asia,Pakistan,2017,65+,male,0.3814393999999999
+358,Central and Southern Asia,Pakistan,2017,65+,total,0.2706483
+359,Central and Southern Asia,Sri Lanka,2010,15+,female,0.8995868
+360,Central and Southern Asia,Sri Lanka,2010,15+,male,0.9257847
+361,Central and Southern Asia,Sri Lanka,2010,15+,total,0.9118136
+362,Central and Southern Asia,Sri Lanka,2010,15-24,female,0.9858897
+363,Central and Southern Asia,Sri Lanka,2010,15-24,male,0.9768653999999998
+364,Central and Southern Asia,Sri Lanka,2010,15-24,total,0.9815793
+365,Central and Southern Asia,Sri Lanka,2010,25-64,female,0.9076137
+366,Central and Southern Asia,Sri Lanka,2010,25-64,male,0.9213229
+367,Central and Southern Asia,Sri Lanka,2010,25-64,total,0.9140077
+368,Central and Southern Asia,Sri Lanka,2010,65+,female,0.6979488
+369,Central and Southern Asia,Sri Lanka,2010,65+,male,0.8519763
+370,Central and Southern Asia,Sri Lanka,2010,65+,total,0.7669585999999999
+371,Central and Southern Asia,Sri Lanka,2016,15+,female,0.9148611
+372,Central and Southern Asia,Sri Lanka,2016,15+,male,0.9345589
+373,Central and Southern Asia,Sri Lanka,2016,15+,total,0.923869
+374,Central and Southern Asia,Sri Lanka,2016,15-24,female,0.9894489
+375,Central and Southern Asia,Sri Lanka,2016,15-24,male,0.9841123
+376,Central and Southern Asia,Sri Lanka,2016,15-24,total,0.9868899
+377,Central and Southern Asia,Sri Lanka,2016,25-64,female,0.9273122
+378,Central and Southern Asia,Sri Lanka,2016,25-64,male,0.9335104
+379,Central and Southern Asia,Sri Lanka,2016,25-64,total,0.9301271
+380,Central and Southern Asia,Sri Lanka,2016,65+,female,0.7631018
+381,Central and Southern Asia,Sri Lanka,2016,65+,male,0.8683014
+382,Central and Southern Asia,Sri Lanka,2016,65+,total,0.8096995
+383,Central and Southern Asia,Sri Lanka,2017,15+,female,0.9097074
+384,Central and Southern Asia,Sri Lanka,2017,15+,male,0.9298055
+385,Central and Southern Asia,Sri Lanka,2017,15+,total,0.9189575
+386,Central and Southern Asia,Sri Lanka,2017,15-24,female,0.9914777
+387,Central and Southern Asia,Sri Lanka,2017,15-24,male,0.9854505
+388,Central and Southern Asia,Sri Lanka,2017,15-24,total,0.9885646
+389,Central and Southern Asia,Sri Lanka,2017,25-64,female,0.9213981
+390,Central and Southern Asia,Sri Lanka,2017,25-64,male,0.926704
+391,Central and Southern Asia,Sri Lanka,2017,25-64,total,0.9238249
+392,Central and Southern Asia,Sri Lanka,2017,65+,female,0.7544446999999999
+393,Central and Southern Asia,Sri Lanka,2017,65+,male,0.864462
+394,Central and Southern Asia,Sri Lanka,2017,65+,total,0.8032131
+395,Central and Southern Asia,Tajikistan,2014,15+,female,0.997
+396,Central and Southern Asia,Tajikistan,2014,15+,male,0.9982
+397,Central and Southern Asia,Tajikistan,2014,15+,total,0.998
+398,Central and Southern Asia,Tajikistan,2014,15-24,female,0.999
+399,Central and Southern Asia,Tajikistan,2014,15-24,male,0.9986
+400,Central and Southern Asia,Tajikistan,2014,15-24,total,0.999
+401,Central and Southern Asia,Tajikistan,2014,25-64,female,0.998
+402,Central and Southern Asia,Tajikistan,2014,25-64,male,0.9985
+403,Central and Southern Asia,Tajikistan,2014,25-64,total,0.998
+404,Central and Southern Asia,Tajikistan,2014,65+,female,0.971
+405,Central and Southern Asia,Tajikistan,2014,65+,male,0.992
+406,Central and Southern Asia,Tajikistan,2014,65+,total,0.981
+407,Central and Southern Asia,Turkmenistan,2014,15+,female,0.996
+408,Central and Southern Asia,Turkmenistan,2014,15+,male,0.9975
+409,Central and Southern Asia,Turkmenistan,2014,15+,total,0.997
+410,Central and Southern Asia,Turkmenistan,2014,15-24,female,0.999
+411,Central and Southern Asia,Turkmenistan,2014,15-24,male,0.9977
+412,Central and Southern Asia,Turkmenistan,2014,15-24,total,0.998
+413,Central and Southern Asia,Turkmenistan,2014,25-64,female,0.998
+414,Central and Southern Asia,Turkmenistan,2014,25-64,male,0.9981
+415,Central and Southern Asia,Turkmenistan,2014,25-64,total,0.998
+416,Central and Southern Asia,Turkmenistan,2014,65+,female,0.968
+417,Central and Southern Asia,Turkmenistan,2014,65+,male,0.9887
+418,Central and Southern Asia,Turkmenistan,2014,65+,total,0.976
+419,Central and Southern Asia,Uzbekistan,2013,15+,female,0.9999587
+420,Central and Southern Asia,Uzbekistan,2013,15+,male,0.9999383
+421,Central and Southern Asia,Uzbekistan,2013,15+,total,0.9999486
+422,Central and Southern Asia,Uzbekistan,2013,15-24,female,1.0
+423,Central and Southern Asia,Uzbekistan,2013,15-24,male,1.0
+424,Central and Southern Asia,Uzbekistan,2013,15-24,total,1.0
+425,Central and Southern Asia,Uzbekistan,2013,25-64,female,1.0
+426,Central and Southern Asia,Uzbekistan,2013,25-64,male,1.0
+427,Central and Southern Asia,Uzbekistan,2013,25-64,total,1.0
+428,Central and Southern Asia,Uzbekistan,2013,65+,female,0.9993467
+429,Central and Southern Asia,Uzbekistan,2013,65+,male,0.9987719
+430,Central and Southern Asia,Uzbekistan,2013,65+,total,0.999095
+431,Central and Southern Asia,Uzbekistan,2014,15+,female,0.9997599
+432,Central and Southern Asia,Uzbekistan,2014,15+,male,0.9998519
+433,Central and Southern Asia,Uzbekistan,2014,15+,total,0.9998055
+434,Central and Southern Asia,Uzbekistan,2014,15-24,female,1.0
+435,Central and Southern Asia,Uzbekistan,2014,15-24,male,1.0
+436,Central and Southern Asia,Uzbekistan,2014,15-24,total,1.0
+437,Central and Southern Asia,Uzbekistan,2014,25-64,female,1.0
+438,Central and Southern Asia,Uzbekistan,2014,25-64,male,1.0
+439,Central and Southern Asia,Uzbekistan,2014,25-64,total,1.0
+440,Central and Southern Asia,Uzbekistan,2014,65+,female,0.9962151
+441,Central and Southern Asia,Uzbekistan,2014,65+,male,0.9970674
+442,Central and Southern Asia,Uzbekistan,2014,65+,total,0.9965888
+443,Central and Southern Asia,Uzbekistan,2015,15+,female,0.9997577
+444,Central and Southern Asia,Uzbekistan,2015,15+,male,0.9999204
+445,Central and Southern Asia,Uzbekistan,2015,15+,total,0.9998383
+446,Central and Southern Asia,Uzbekistan,2015,15-24,female,1.0
+447,Central and Southern Asia,Uzbekistan,2015,15-24,male,1.0
+448,Central and Southern Asia,Uzbekistan,2015,15-24,total,1.0
+449,Central and Southern Asia,Uzbekistan,2015,25-64,female,1.0
+450,Central and Southern Asia,Uzbekistan,2015,25-64,male,1.0
+451,Central and Southern Asia,Uzbekistan,2015,25-64,total,1.0
+452,Central and Southern Asia,Uzbekistan,2015,65+,female,0.996261
+453,Central and Southern Asia,Uzbekistan,2015,65+,male,0.9984595
+454,Central and Southern Asia,Uzbekistan,2015,65+,total,0.9972267
+455,Central and Southern Asia,Uzbekistan,2016,15+,female,0.9997841
+456,Central and Southern Asia,Uzbekistan,2016,15+,male,0.9999487
+457,Central and Southern Asia,Uzbekistan,2016,15+,total,0.9998657
+458,Central and Southern Asia,Uzbekistan,2016,15-24,female,1.0
+459,Central and Southern Asia,Uzbekistan,2016,15-24,male,1.0
+460,Central and Southern Asia,Uzbekistan,2016,15-24,total,1.0
+461,Central and Southern Asia,Uzbekistan,2016,25-64,female,1.0
+462,Central and Southern Asia,Uzbekistan,2016,25-64,male,1.0
+463,Central and Southern Asia,Uzbekistan,2016,25-64,total,1.0
+464,Central and Southern Asia,Uzbekistan,2016,65+,female,0.9966975
+465,Central and Southern Asia,Uzbekistan,2016,65+,male,0.9990176
+466,Central and Southern Asia,Uzbekistan,2016,65+,total,0.9977188
+467,Eastern and South-Eastern Asia,Brunei Darussalam,2011,15+,female,0.9465248
+468,Eastern and South-Eastern Asia,Brunei Darussalam,2011,15+,male,0.9742816
+469,Eastern and South-Eastern Asia,Brunei Darussalam,2011,15+,total,0.9608556
+470,Eastern and South-Eastern Asia,Brunei Darussalam,2011,15-24,female,0.9954606
+471,Eastern and South-Eastern Asia,Brunei Darussalam,2011,15-24,male,0.9919989
+472,Eastern and South-Eastern Asia,Brunei Darussalam,2011,15-24,total,0.9936677
+473,Eastern and South-Eastern Asia,Brunei Darussalam,2011,25-64,female,0.965837
+474,Eastern and South-Eastern Asia,Brunei Darussalam,2011,25-64,male,0.9783945
+475,Eastern and South-Eastern Asia,Brunei Darussalam,2011,25-64,total,0.9723414
+476,Eastern and South-Eastern Asia,Brunei Darussalam,2011,65+,female,0.4375522999999999
+477,Eastern and South-Eastern Asia,Brunei Darussalam,2011,65+,male,0.8081863999999999
+478,Eastern and South-Eastern Asia,Brunei Darussalam,2011,65+,total,0.6164551
+479,Eastern and South-Eastern Asia,Brunei Darussalam,2018,15+,female,0.9630126
+480,Eastern and South-Eastern Asia,Brunei Darussalam,2018,15+,male,0.9805362
+481,Eastern and South-Eastern Asia,Brunei Darussalam,2018,15+,total,0.9721411
+482,Eastern and South-Eastern Asia,Brunei Darussalam,2018,15-24,female,0.9978966
+483,Eastern and South-Eastern Asia,Brunei Darussalam,2018,15-24,male,0.9963516
+484,Eastern and South-Eastern Asia,Brunei Darussalam,2018,15-24,total,0.9970894
+485,Eastern and South-Eastern Asia,Brunei Darussalam,2018,25-64,female,0.980621
+486,Eastern and South-Eastern Asia,Brunei Darussalam,2018,25-64,male,0.9822334
+487,Eastern and South-Eastern Asia,Brunei Darussalam,2018,25-64,total,0.9814647
+488,Eastern and South-Eastern Asia,Brunei Darussalam,2018,65+,female,0.6677024
+489,Eastern and South-Eastern Asia,Brunei Darussalam,2018,65+,male,0.903043
+490,Eastern and South-Eastern Asia,Brunei Darussalam,2018,65+,total,0.7821901
+491,Eastern and South-Eastern Asia,Cambodia,2014,15+,female,0.717818
+492,Eastern and South-Eastern Asia,Cambodia,2014,15+,male,0.8481414999999999
+493,Eastern and South-Eastern Asia,Cambodia,2014,15+,total,0.7805509
+494,Eastern and South-Eastern Asia,Cambodia,2014,15-24,female,0.9037226
+495,Eastern and South-Eastern Asia,Cambodia,2014,15-24,male,0.8992461
+496,Eastern and South-Eastern Asia,Cambodia,2014,15-24,total,0.9014187
+497,Eastern and South-Eastern Asia,Cambodia,2014,25-64,female,0.6816518999999999
+498,Eastern and South-Eastern Asia,Cambodia,2014,25-64,male,0.8304247999999999
+499,Eastern and South-Eastern Asia,Cambodia,2014,25-64,total,0.7519057999999998
+500,Eastern and South-Eastern Asia,Cambodia,2014,65+,female,0.2841379
+501,Eastern and South-Eastern Asia,Cambodia,2014,65+,male,0.730549
+502,Eastern and South-Eastern Asia,Cambodia,2014,65+,total,0.4656808999999999
+503,Eastern and South-Eastern Asia,Cambodia,2015,15+,female,0.7503386999999999
+504,Eastern and South-Eastern Asia,Cambodia,2015,15+,male,0.8653243999999999
+505,Eastern and South-Eastern Asia,Cambodia,2015,15+,total,0.8052649
+506,Eastern and South-Eastern Asia,Cambodia,2015,15-24,female,0.9257328
+507,Eastern and South-Eastern Asia,Cambodia,2015,15-24,male,0.9186412
+508,Eastern and South-Eastern Asia,Cambodia,2015,15-24,total,0.9221236
+509,Eastern and South-Eastern Asia,Cambodia,2015,25-64,female,0.7191505999999999
+510,Eastern and South-Eastern Asia,Cambodia,2015,25-64,male,0.8465118999999999
+511,Eastern and South-Eastern Asia,Cambodia,2015,25-64,total,0.7790833999999999
+512,Eastern and South-Eastern Asia,Cambodia,2015,65+,female,0.3685877
+513,Eastern and South-Eastern Asia,Cambodia,2015,65+,male,0.7689028
+514,Eastern and South-Eastern Asia,Cambodia,2015,65+,total,0.530784
+515,Eastern and South-Eastern Asia,China,2010,15+,female,0.9271123
+516,Eastern and South-Eastern Asia,China,2010,15+,male,0.9747946
+517,Eastern and South-Eastern Asia,China,2010,15+,total,0.9512448
+518,Eastern and South-Eastern Asia,China,2010,15-24,female,0.9959304
+519,Eastern and South-Eastern Asia,China,2010,15-24,male,0.9968962
+520,Eastern and South-Eastern Asia,China,2010,15-24,total,0.9964229
+521,Eastern and South-Eastern Asia,China,2010,25-64,female,0.956095
+522,Eastern and South-Eastern Asia,China,2010,25-64,male,0.9849897
+523,Eastern and South-Eastern Asia,China,2010,25-64,total,0.9707986
+524,Eastern and South-Eastern Asia,China,2010,65+,female,0.6264321999999999
+525,Eastern and South-Eastern Asia,China,2010,65+,male,0.8606095
+526,Eastern and South-Eastern Asia,China,2010,65+,total,0.7390746
+527,Eastern and South-Eastern Asia,China,2018,15+,female,0.9515933
+528,Eastern and South-Eastern Asia,China,2018,15+,male,0.9846654
+529,Eastern and South-Eastern Asia,China,2018,15+,total,0.9684089
+530,Eastern and South-Eastern Asia,China,2018,15-24,female,0.9978338
+531,Eastern and South-Eastern Asia,China,2018,15-24,male,0.9978379
+532,Eastern and South-Eastern Asia,China,2018,15-24,total,0.997836
+533,Eastern and South-Eastern Asia,China,2018,25-64,female,0.9769209
+534,Eastern and South-Eastern Asia,China,2018,25-64,male,0.9914399
+535,Eastern and South-Eastern Asia,China,2018,25-64,total,0.9843371
+536,Eastern and South-Eastern Asia,China,2018,65+,female,0.7796913999999999
+537,Eastern and South-Eastern Asia,China,2018,65+,male,0.9282899
+538,Eastern and South-Eastern Asia,China,2018,65+,total,0.849544
+539,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,15+,female,0.9373191
+540,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,15+,male,0.9775129
+541,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,15+,total,0.9564004
+542,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,15-24,female,0.9969008
+543,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,15-24,male,0.9965497
+544,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,15-24,total,0.996729
+545,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,25-64,female,0.9621939
+546,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,25-64,male,0.9821971
+547,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,25-64,total,0.9716706
+548,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,65+,female,0.5973218
+549,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,65+,male,0.8847441
+550,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2011,65+,total,0.7263037
+551,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,15+,female,0.9503257
+552,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,15+,male,0.9818592
+553,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,15+,total,0.9653849
+554,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,15-24,female,0.9986617
+555,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,15-24,male,0.9972689
+556,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,15-24,total,0.9979874
+557,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,25-64,female,0.9728182
+558,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,25-64,male,0.9882016
+559,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,25-64,total,0.9801514
+560,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,65+,female,0.7206239999999999
+561,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,65+,male,0.9132673
+562,Eastern and South-Eastern Asia,"China, Macao Special Administrative Region",2016,65+,total,0.8120001000000001
+563,Eastern and South-Eastern Asia,Indonesia,2011,15+,female,0.900687
+564,Eastern and South-Eastern Asia,Indonesia,2011,15+,male,0.9559109
+565,Eastern and South-Eastern Asia,Indonesia,2011,15+,total,0.9281191
+566,Eastern and South-Eastern Asia,Indonesia,2011,15-24,female,0.987518
+567,Eastern and South-Eastern Asia,Indonesia,2011,15-24,male,0.9880384
+568,Eastern and South-Eastern Asia,Indonesia,2011,15-24,total,0.98778
+569,Eastern and South-Eastern Asia,Indonesia,2011,25-64,female,0.9134358
+570,Eastern and South-Eastern Asia,Indonesia,2011,25-64,male,0.9597387999999998
+571,Eastern and South-Eastern Asia,Indonesia,2011,25-64,total,0.9365473
+572,Eastern and South-Eastern Asia,Indonesia,2011,65+,female,0.5210839
+573,Eastern and South-Eastern Asia,Indonesia,2011,65+,male,0.7926775
+574,Eastern and South-Eastern Asia,Indonesia,2011,65+,total,0.6432846999999999
+575,Eastern and South-Eastern Asia,Indonesia,2014,15+,female,0.934509
+576,Eastern and South-Eastern Asia,Indonesia,2014,15+,male,0.9679101
+577,Eastern and South-Eastern Asia,Indonesia,2014,15+,total,0.9511622
+578,Eastern and South-Eastern Asia,Indonesia,2014,15-24,female,0.9967883
+579,Eastern and South-Eastern Asia,Indonesia,2014,15-24,male,0.9968156
+580,Eastern and South-Eastern Asia,Indonesia,2014,15-24,total,0.9968022
+581,Eastern and South-Eastern Asia,Indonesia,2014,25-64,female,0.9432201
+582,Eastern and South-Eastern Asia,Indonesia,2014,25-64,male,0.9761209
+583,Eastern and South-Eastern Asia,Indonesia,2014,25-64,total,0.959686
+584,Eastern and South-Eastern Asia,Indonesia,2014,65+,female,0.6779958999999999
+585,Eastern and South-Eastern Asia,Indonesia,2014,65+,male,0.7680862
+586,Eastern and South-Eastern Asia,Indonesia,2014,65+,total,0.7181034
+587,Eastern and South-Eastern Asia,Indonesia,2015,15+,female,0.9333571
+588,Eastern and South-Eastern Asia,Indonesia,2015,15+,male,0.9710652
+589,Eastern and South-Eastern Asia,Indonesia,2015,15+,total,0.9521793
+590,Eastern and South-Eastern Asia,Indonesia,2015,15-24,female,0.9963702
+591,Eastern and South-Eastern Asia,Indonesia,2015,15-24,male,0.9970176
+592,Eastern and South-Eastern Asia,Indonesia,2015,15-24,total,0.9967007
+593,Eastern and South-Eastern Asia,Indonesia,2015,25-64,female,0.9526534
+594,Eastern and South-Eastern Asia,Indonesia,2015,25-64,male,0.9768454
+595,Eastern and South-Eastern Asia,Indonesia,2015,25-64,total,0.9647624
+596,Eastern and South-Eastern Asia,Indonesia,2015,65+,female,0.5885918
+597,Eastern and South-Eastern Asia,Indonesia,2015,65+,male,0.8174557
+598,Eastern and South-Eastern Asia,Indonesia,2015,65+,total,0.6917214999999999
+599,Eastern and South-Eastern Asia,Indonesia,2016,15+,female,0.9358692
+600,Eastern and South-Eastern Asia,Indonesia,2016,15+,male,0.9717444
+601,Eastern and South-Eastern Asia,Indonesia,2016,15+,total,0.9537697
+602,Eastern and South-Eastern Asia,Indonesia,2016,15-24,female,0.9965351
+603,Eastern and South-Eastern Asia,Indonesia,2016,15-24,male,0.9968345
+604,Eastern and South-Eastern Asia,Indonesia,2016,15-24,total,0.9966881
+605,Eastern and South-Eastern Asia,Indonesia,2016,25-64,female,0.9557162
+606,Eastern and South-Eastern Asia,Indonesia,2016,25-64,male,0.9782129999999998
+607,Eastern and South-Eastern Asia,Indonesia,2016,25-64,total,0.9669641
+608,Eastern and South-Eastern Asia,Indonesia,2016,65+,female,0.6020163
+609,Eastern and South-Eastern Asia,Indonesia,2016,65+,male,0.8194724999999999
+610,Eastern and South-Eastern Asia,Indonesia,2016,65+,total,0.7005508
+611,Eastern and South-Eastern Asia,Indonesia,2018,15+,female,0.9399218
+612,Eastern and South-Eastern Asia,Indonesia,2018,15+,male,0.9733134
+613,Eastern and South-Eastern Asia,Indonesia,2018,15+,total,0.9565856
+614,Eastern and South-Eastern Asia,Indonesia,2018,15-24,female,0.9969625
+615,Eastern and South-Eastern Asia,Indonesia,2018,15-24,male,0.9971748
+616,Eastern and South-Eastern Asia,Indonesia,2018,15-24,total,0.9970708
+617,Eastern and South-Eastern Asia,Indonesia,2018,25-64,female,0.9565632
+618,Eastern and South-Eastern Asia,Indonesia,2018,25-64,male,0.9787111
+619,Eastern and South-Eastern Asia,Indonesia,2018,25-64,total,0.9676345
+620,Eastern and South-Eastern Asia,Indonesia,2018,65+,female,0.6559053
+621,Eastern and South-Eastern Asia,Indonesia,2018,65+,male,0.8460672999999999
+622,Eastern and South-Eastern Asia,Indonesia,2018,65+,total,0.7434252999999998
+623,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,15+,female,0.4972308
+624,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,15+,male,0.6735858
+625,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,15+,total,0.5828793999999999
+626,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,15-24,female,0.6705378
+627,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,15-24,male,0.7727267000000001
+628,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,15-24,total,0.7205622999999999
+629,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,25-64,female,0.4611724999999999
+630,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,25-64,male,0.6548057
+631,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,25-64,total,0.5555521999999999
+632,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,65+,female,0.1841107999999999
+633,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,65+,male,0.4502912
+634,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2011,65+,total,0.3055402999999999
+635,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,15+,female,0.7939104
+636,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,15+,male,0.8996127999999999
+637,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,15+,total,0.8466103999999999
+638,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,15-24,female,0.9050107
+639,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,15-24,male,0.9440438
+640,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,15-24,total,0.9246264
+641,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,25-64,female,0.7769873999999999
+642,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,25-64,male,0.8919460999999999
+643,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,25-64,total,0.8344753
+644,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,65+,female,0.4466431999999999
+645,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,65+,male,0.7464927
+646,Eastern and South-Eastern Asia,Lao People's Democratic Republic,2015,65+,total,0.5857133999999999
+647,Eastern and South-Eastern Asia,Malaysia,2010,15+,female,0.9074768
+648,Eastern and South-Eastern Asia,Malaysia,2010,15+,male,0.9543375
+649,Eastern and South-Eastern Asia,Malaysia,2010,15+,total,0.9311789
+650,Eastern and South-Eastern Asia,Malaysia,2010,15-24,female,0.9845826
+651,Eastern and South-Eastern Asia,Malaysia,2010,15-24,male,0.9838104
+652,Eastern and South-Eastern Asia,Malaysia,2010,15-24,total,0.9841871
+653,Eastern and South-Eastern Asia,Malaysia,2010,25-64,female,0.928214
+654,Eastern and South-Eastern Asia,Malaysia,2010,25-64,male,0.9618534
+655,Eastern and South-Eastern Asia,Malaysia,2010,25-64,total,0.9452684
+656,Eastern and South-Eastern Asia,Malaysia,2010,65+,female,0.4398980999999999
+657,Eastern and South-Eastern Asia,Malaysia,2010,65+,male,0.7484397999999999
+658,Eastern and South-Eastern Asia,Malaysia,2010,65+,total,0.5847356
+659,Eastern and South-Eastern Asia,Malaysia,2016,15+,female,0.9106836
+660,Eastern and South-Eastern Asia,Malaysia,2016,15+,male,0.96297
+661,Eastern and South-Eastern Asia,Malaysia,2016,15+,total,0.937347
+662,Eastern and South-Eastern Asia,Malaysia,2016,15-24,female,0.9785761
+663,Eastern and South-Eastern Asia,Malaysia,2016,15-24,male,0.9739067
+664,Eastern and South-Eastern Asia,Malaysia,2016,15-24,total,0.9761447
+665,Eastern and South-Eastern Asia,Malaysia,2016,25-64,female,0.9540419
+666,Eastern and South-Eastern Asia,Malaysia,2016,25-64,male,0.971917
+667,Eastern and South-Eastern Asia,Malaysia,2016,25-64,total,0.9632962
+668,Eastern and South-Eastern Asia,Malaysia,2016,65+,female,0.4783899999999999
+669,Eastern and South-Eastern Asia,Malaysia,2016,65+,male,0.8416033
+670,Eastern and South-Eastern Asia,Malaysia,2016,65+,total,0.6312168999999999
+671,Eastern and South-Eastern Asia,Mongolia,2010,15+,female,0.9833663
+672,Eastern and South-Eastern Asia,Mongolia,2010,15+,male,0.981747
+673,Eastern and South-Eastern Asia,Mongolia,2010,15+,total,0.98257
+674,Eastern and South-Eastern Asia,Mongolia,2010,15-24,female,0.9890874
+675,Eastern and South-Eastern Asia,Mongolia,2010,15-24,male,0.9802181
+676,Eastern and South-Eastern Asia,Mongolia,2010,15-24,total,0.9846025
+677,Eastern and South-Eastern Asia,Mongolia,2010,25-64,female,0.9861593
+678,Eastern and South-Eastern Asia,Mongolia,2010,25-64,male,0.9830033
+679,Eastern and South-Eastern Asia,Mongolia,2010,25-64,total,0.9846082
+680,Eastern and South-Eastern Asia,Mongolia,2010,65+,female,0.9268123
+681,Eastern and South-Eastern Asia,Mongolia,2010,65+,male,0.9735641
+682,Eastern and South-Eastern Asia,Mongolia,2010,65+,total,0.9464437
+683,Eastern and South-Eastern Asia,Mongolia,2018,15+,female,0.9864888999999998
+684,Eastern and South-Eastern Asia,Mongolia,2018,15+,male,0.9818601
+685,Eastern and South-Eastern Asia,Mongolia,2018,15+,total,0.9842312
+686,Eastern and South-Eastern Asia,Mongolia,2018,15-24,female,0.9908
+687,Eastern and South-Eastern Asia,Mongolia,2018,15-24,male,0.9819
+688,Eastern and South-Eastern Asia,Mongolia,2018,15-24,total,0.9863
+689,Eastern and South-Eastern Asia,Mongolia,2018,25-64,female,0.9871931
+690,Eastern and South-Eastern Asia,Mongolia,2018,25-64,male,0.98173
+691,Eastern and South-Eastern Asia,Mongolia,2018,25-64,total,0.9845218
+692,Eastern and South-Eastern Asia,Mongolia,2018,65+,female,0.9657558
+693,Eastern and South-Eastern Asia,Mongolia,2018,65+,male,0.9836351
+694,Eastern and South-Eastern Asia,Mongolia,2018,65+,total,0.9731936
+695,Eastern and South-Eastern Asia,Myanmar,2016,15+,female,0.7184699000000001
+696,Eastern and South-Eastern Asia,Myanmar,2016,15+,male,0.8001158999999999
+697,Eastern and South-Eastern Asia,Myanmar,2016,15+,total,0.7555119999999999
+698,Eastern and South-Eastern Asia,Myanmar,2016,15-24,female,0.8441379000000001
+699,Eastern and South-Eastern Asia,Myanmar,2016,15-24,male,0.8511967
+700,Eastern and South-Eastern Asia,Myanmar,2016,15-24,total,0.8475116
+701,Eastern and South-Eastern Asia,Myanmar,2016,25-64,female,0.7168071999999999
+702,Eastern and South-Eastern Asia,Myanmar,2016,25-64,male,0.7964427
+703,Eastern and South-Eastern Asia,Myanmar,2016,25-64,total,0.7527319
+704,Eastern and South-Eastern Asia,Myanmar,2016,65+,female,0.4920424999999999
+705,Eastern and South-Eastern Asia,Myanmar,2016,65+,male,0.705771
+706,Eastern and South-Eastern Asia,Myanmar,2016,65+,total,0.5819539999999999
+707,Eastern and South-Eastern Asia,Philippines,2013,15+,female,0.9678736
+708,Eastern and South-Eastern Asia,Philippines,2013,15+,male,0.9600834
+709,Eastern and South-Eastern Asia,Philippines,2013,15+,total,0.96398
+710,Eastern and South-Eastern Asia,Philippines,2013,15-24,female,0.9881543
+711,Eastern and South-Eastern Asia,Philippines,2013,15-24,male,0.9742543
+712,Eastern and South-Eastern Asia,Philippines,2013,15-24,total,0.9810835
+713,Eastern and South-Eastern Asia,Philippines,2013,25-64,female,0.967058
+714,Eastern and South-Eastern Asia,Philippines,2013,25-64,male,0.9584971
+715,Eastern and South-Eastern Asia,Philippines,2013,25-64,total,0.9627519
+716,Eastern and South-Eastern Asia,Philippines,2013,65+,female,0.8986872999999999
+717,Eastern and South-Eastern Asia,Philippines,2013,65+,male,0.9051444
+718,Eastern and South-Eastern Asia,Philippines,2013,65+,total,0.9014642
+719,Eastern and South-Eastern Asia,Philippines,2015,15+,female,0.9824175
+720,Eastern and South-Eastern Asia,Philippines,2015,15+,male,0.9812325
+721,Eastern and South-Eastern Asia,Philippines,2015,15+,total,0.9818255
+722,Eastern and South-Eastern Asia,Philippines,2015,15-24,female,0.9926673
+723,Eastern and South-Eastern Asia,Philippines,2015,15-24,male,0.9890415
+724,Eastern and South-Eastern Asia,Philippines,2015,15-24,total,0.990826
+725,Eastern and South-Eastern Asia,Philippines,2015,25-64,female,0.9831498
+726,Eastern and South-Eastern Asia,Philippines,2015,25-64,male,0.9809288
+727,Eastern and South-Eastern Asia,Philippines,2015,25-64,total,0.9820289
+728,Eastern and South-Eastern Asia,Philippines,2015,65+,female,0.9411602
+729,Eastern and South-Eastern Asia,Philippines,2015,65+,male,0.9459927
+730,Eastern and South-Eastern Asia,Philippines,2015,65+,total,0.943187
+731,Eastern and South-Eastern Asia,Singapore,2010,15+,female,0.9377481
+732,Eastern and South-Eastern Asia,Singapore,2010,15+,male,0.9803713999999998
+733,Eastern and South-Eastern Asia,Singapore,2010,15+,total,0.9585733
+734,Eastern and South-Eastern Asia,Singapore,2010,15-24,female,0.9976667
+735,Eastern and South-Eastern Asia,Singapore,2010,15-24,male,0.9973789
+736,Eastern and South-Eastern Asia,Singapore,2010,15-24,total,0.9975182
+737,Eastern and South-Eastern Asia,Singapore,2010,25-64,female,0.9752262
+738,Eastern and South-Eastern Asia,Singapore,2010,25-64,male,0.9859787
+739,Eastern and South-Eastern Asia,Singapore,2010,25-64,total,0.9804922
+740,Eastern and South-Eastern Asia,Singapore,2010,65+,female,0.6370677
+741,Eastern and South-Eastern Asia,Singapore,2010,65+,male,0.909911
+742,Eastern and South-Eastern Asia,Singapore,2010,65+,total,0.7572369000000001
+743,Eastern and South-Eastern Asia,Singapore,2011,15+,female,0.940684
+744,Eastern and South-Eastern Asia,Singapore,2011,15+,male,0.9839284
+745,Eastern and South-Eastern Asia,Singapore,2011,15+,total,0.9618608
+746,Eastern and South-Eastern Asia,Singapore,2011,15-24,female,0.9988059
+747,Eastern and South-Eastern Asia,Singapore,2011,15-24,male,0.9989364999999998
+748,Eastern and South-Eastern Asia,Singapore,2011,15-24,total,0.998872
+749,Eastern and South-Eastern Asia,Singapore,2011,25-64,female,0.9871039
+750,Eastern and South-Eastern Asia,Singapore,2011,25-64,male,0.9871039
+751,Eastern and South-Eastern Asia,Singapore,2011,25-64,total,0.9735692
+752,Eastern and South-Eastern Asia,Singapore,2012,15+,female,0.9435959
+753,Eastern and South-Eastern Asia,Singapore,2012,15+,male,0.9846946
+754,Eastern and South-Eastern Asia,Singapore,2012,15+,total,0.9636979
+755,Eastern and South-Eastern Asia,Singapore,2012,15-24,female,0.9989296
+756,Eastern and South-Eastern Asia,Singapore,2012,15-24,male,0.9989687
+757,Eastern and South-Eastern Asia,Singapore,2012,15-24,total,0.9989494
+758,Eastern and South-Eastern Asia,Singapore,2012,25-64,female,0.9625531
+759,Eastern and South-Eastern Asia,Singapore,2012,25-64,male,0.9877792
+760,Eastern and South-Eastern Asia,Singapore,2012,25-64,total,0.9748292
+761,Eastern and South-Eastern Asia,Singapore,2013,15+,female,0.9464199
+762,Eastern and South-Eastern Asia,Singapore,2013,15+,male,0.9854254
+763,Eastern and South-Eastern Asia,Singapore,2013,15+,total,0.9654808
+764,Eastern and South-Eastern Asia,Singapore,2013,15-24,female,0.9990101
+765,Eastern and South-Eastern Asia,Singapore,2013,15-24,male,0.9989628
+766,Eastern and South-Eastern Asia,Singapore,2013,15-24,total,0.9989861
+767,Eastern and South-Eastern Asia,Singapore,2013,25-64,female,0.9644466
+768,Eastern and South-Eastern Asia,Singapore,2013,25-64,male,0.9884876
+769,Eastern and South-Eastern Asia,Singapore,2013,25-64,total,0.9761308
+770,Eastern and South-Eastern Asia,Singapore,2014,15+,female,0.9491132
+771,Eastern and South-Eastern Asia,Singapore,2014,15+,male,0.9860895
+772,Eastern and South-Eastern Asia,Singapore,2014,15+,total,0.9671666
+773,Eastern and South-Eastern Asia,Singapore,2014,15-24,female,0.9990389
+774,Eastern and South-Eastern Asia,Singapore,2014,15-24,male,0.9989716
+775,Eastern and South-Eastern Asia,Singapore,2014,15-24,total,0.9990047
+776,Eastern and South-Eastern Asia,Singapore,2014,25-64,female,0.9663932
+777,Eastern and South-Eastern Asia,Singapore,2014,25-64,male,0.9891571
+778,Eastern and South-Eastern Asia,Singapore,2014,25-64,total,0.9774351
+779,Eastern and South-Eastern Asia,Singapore,2015,15+,female,0.9519065
+780,Eastern and South-Eastern Asia,Singapore,2015,15+,male,0.9855957
+781,Eastern and South-Eastern Asia,Singapore,2015,15+,total,0.9682549
+782,Eastern and South-Eastern Asia,Singapore,2015,15-24,female,0.9983812
+783,Eastern and South-Eastern Asia,Singapore,2015,15-24,male,0.9973515
+784,Eastern and South-Eastern Asia,Singapore,2015,15-24,total,0.997849
+785,Eastern and South-Eastern Asia,Singapore,2015,25-64,female,0.9852617
+786,Eastern and South-Eastern Asia,Singapore,2015,25-64,male,0.9901531
+787,Eastern and South-Eastern Asia,Singapore,2015,25-64,total,0.9876398
+788,Eastern and South-Eastern Asia,Singapore,2015,65+,female,0.7552204
+789,Eastern and South-Eastern Asia,Singapore,2015,65+,male,0.9462572
+790,Eastern and South-Eastern Asia,Singapore,2015,65+,total,0.8404711
+791,Eastern and South-Eastern Asia,Singapore,2016,15+,female,0.9544789
+792,Eastern and South-Eastern Asia,Singapore,2016,15+,male,0.9873453
+793,Eastern and South-Eastern Asia,Singapore,2016,15+,total,0.9704959
+794,Eastern and South-Eastern Asia,Singapore,2016,15-24,female,0.9994051
+795,Eastern and South-Eastern Asia,Singapore,2016,15-24,male,0.9991319
+796,Eastern and South-Eastern Asia,Singapore,2016,15-24,total,0.9992658
+797,Eastern and South-Eastern Asia,Singapore,2016,25-64,female,0.9701817
+798,Eastern and South-Eastern Asia,Singapore,2016,25-64,male,0.9904367
+799,Eastern and South-Eastern Asia,Singapore,2016,25-64,total,0.9799731
+800,Eastern and South-Eastern Asia,Singapore,2017,15+,female,0.9568953
+801,Eastern and South-Eastern Asia,Singapore,2017,15+,male,0.9879692
+802,Eastern and South-Eastern Asia,Singapore,2017,15+,total,0.9720225
+803,Eastern and South-Eastern Asia,Singapore,2017,15-24,female,0.9994014
+804,Eastern and South-Eastern Asia,Singapore,2017,15-24,male,0.9992116
+805,Eastern and South-Eastern Asia,Singapore,2017,15-24,total,0.9993044
+806,Eastern and South-Eastern Asia,Singapore,2017,25-64,female,0.9500601
+807,Eastern and South-Eastern Asia,Singapore,2017,25-64,male,0.9859425
+808,Eastern and South-Eastern Asia,Singapore,2017,25-64,total,0.9673791
+809,Eastern and South-Eastern Asia,Singapore,2018,15+,female,0.9591941
+810,Eastern and South-Eastern Asia,Singapore,2018,15+,male,0.988509
+811,Eastern and South-Eastern Asia,Singapore,2018,15+,total,0.9734486
+812,Eastern and South-Eastern Asia,Singapore,2018,15-24,female,0.9994237
+813,Eastern and South-Eastern Asia,Singapore,2018,15-24,male,0.9991742
+814,Eastern and South-Eastern Asia,Singapore,2018,15-24,total,0.9992963
+815,Eastern and South-Eastern Asia,Singapore,2018,25-64,female,0.9529477
+816,Eastern and South-Eastern Asia,Singapore,2018,25-64,male,0.9866524
+817,Eastern and South-Eastern Asia,Singapore,2018,25-64,total,0.9692008
+818,Eastern and South-Eastern Asia,Thailand,2010,15+,female,0.9642705
+819,Eastern and South-Eastern Asia,Thailand,2010,15+,male,0.9643502
+820,Eastern and South-Eastern Asia,Thailand,2010,15+,total,0.9643091
+821,Eastern and South-Eastern Asia,Thailand,2010,15-24,female,0.9655204
+822,Eastern and South-Eastern Asia,Thailand,2010,15-24,male,0.9664255
+823,Eastern and South-Eastern Asia,Thailand,2010,15-24,total,0.9659757
+824,Eastern and South-Eastern Asia,Thailand,2010,25-64,female,0.9712142
+825,Eastern and South-Eastern Asia,Thailand,2010,25-64,male,0.966597
+826,Eastern and South-Eastern Asia,Thailand,2010,25-64,total,0.9689667
+827,Eastern and South-Eastern Asia,Thailand,2010,65+,female,0.9201087
+828,Eastern and South-Eastern Asia,Thailand,2010,65+,male,0.9440132
+829,Eastern and South-Eastern Asia,Thailand,2010,65+,total,0.9306761
+830,Eastern and South-Eastern Asia,Thailand,2013,15+,female,0.9224916
+831,Eastern and South-Eastern Asia,Thailand,2013,15+,male,0.9525126
+832,Eastern and South-Eastern Asia,Thailand,2013,15+,total,0.9370207
+833,Eastern and South-Eastern Asia,Thailand,2013,15-24,female,0.9865491
+834,Eastern and South-Eastern Asia,Thailand,2013,15-24,male,0.9797784
+835,Eastern and South-Eastern Asia,Thailand,2013,15-24,total,0.9831388
+836,Eastern and South-Eastern Asia,Thailand,2013,25-64,female,0.9418718
+837,Eastern and South-Eastern Asia,Thailand,2013,25-64,male,0.9624939
+838,Eastern and South-Eastern Asia,Thailand,2013,25-64,total,0.9519179
+839,Eastern and South-Eastern Asia,Thailand,2013,65+,female,0.726363
+840,Eastern and South-Eastern Asia,Thailand,2013,65+,male,0.8365293
+841,Eastern and South-Eastern Asia,Thailand,2013,65+,total,0.7762527
+842,Eastern and South-Eastern Asia,Thailand,2015,15+,female,0.9119193
+843,Eastern and South-Eastern Asia,Thailand,2015,15+,male,0.9465912
+844,Eastern and South-Eastern Asia,Thailand,2015,15+,total,0.9286831
+845,Eastern and South-Eastern Asia,Thailand,2015,15-24,female,0.9829299
+846,Eastern and South-Eastern Asia,Thailand,2015,15-24,male,0.9800288
+847,Eastern and South-Eastern Asia,Thailand,2015,15-24,total,0.9814663
+848,Eastern and South-Eastern Asia,Thailand,2015,25-64,female,0.9390205
+849,Eastern and South-Eastern Asia,Thailand,2015,25-64,male,0.9577031
+850,Eastern and South-Eastern Asia,Thailand,2015,25-64,total,0.9480962
+851,Eastern and South-Eastern Asia,Thailand,2015,65+,female,0.7327314
+852,Eastern and South-Eastern Asia,Thailand,2015,65+,male,0.8539046
+853,Eastern and South-Eastern Asia,Thailand,2015,65+,total,0.7873101
+854,Eastern and South-Eastern Asia,Timor-Leste,2010,15+,female,0.52959
+855,Eastern and South-Eastern Asia,Timor-Leste,2010,15+,male,0.6359179
+856,Eastern and South-Eastern Asia,Timor-Leste,2010,15+,total,0.5830897999999999
+857,Eastern and South-Eastern Asia,Timor-Leste,2010,15-24,female,0.7856844
+858,Eastern and South-Eastern Asia,Timor-Leste,2010,15-24,male,0.8048975999999999
+859,Eastern and South-Eastern Asia,Timor-Leste,2010,15-24,total,0.7952867999999998
+860,Eastern and South-Eastern Asia,Timor-Leste,2010,25-64,female,0.443584
+861,Eastern and South-Eastern Asia,Timor-Leste,2010,25-64,male,0.605671
+862,Eastern and South-Eastern Asia,Timor-Leste,2010,25-64,total,0.5256410999999999
+863,Eastern and South-Eastern Asia,Timor-Leste,2010,65+,female,0.0770592999999999
+864,Eastern and South-Eastern Asia,Timor-Leste,2010,65+,male,0.1470806
+865,Eastern and South-Eastern Asia,Timor-Leste,2010,65+,total,0.1117163
+866,Eastern and South-Eastern Asia,Timor-Leste,2018,15+,female,0.6421093999999999
+867,Eastern and South-Eastern Asia,Timor-Leste,2018,15+,male,0.7186871999999999
+868,Eastern and South-Eastern Asia,Timor-Leste,2018,15+,total,0.6806683
+869,Eastern and South-Eastern Asia,Timor-Leste,2018,15-24,female,0.8465051
+870,Eastern and South-Eastern Asia,Timor-Leste,2018,15-24,male,0.8245847999999999
+871,Eastern and South-Eastern Asia,Timor-Leste,2018,15-24,total,0.8353902999999999
+872,Eastern and South-Eastern Asia,Timor-Leste,2018,25-64,female,0.5913661
+873,Eastern and South-Eastern Asia,Timor-Leste,2018,25-64,male,0.7107284999999999
+874,Eastern and South-Eastern Asia,Timor-Leste,2018,25-64,total,0.6517595999999999
+875,Eastern and South-Eastern Asia,Timor-Leste,2018,65+,female,0.0950017
+876,Eastern and South-Eastern Asia,Timor-Leste,2018,65+,male,0.2141025
+877,Eastern and South-Eastern Asia,Timor-Leste,2018,65+,total,0.1503702
+878,Eastern and South-Eastern Asia,Viet Nam,2018,15+,female,0.9359671
+879,Eastern and South-Eastern Asia,Viet Nam,2018,15+,male,0.9645678
+880,Eastern and South-Eastern Asia,Viet Nam,2018,15+,total,0.9500038
+881,Eastern and South-Eastern Asia,Viet Nam,2018,15-24,female,0.9835314
+882,Eastern and South-Eastern Asia,Viet Nam,2018,15-24,male,0.9846012
+883,Eastern and South-Eastern Asia,Viet Nam,2018,15-24,total,0.984081
+884,Eastern and South-Eastern Asia,Viet Nam,2018,25-64,female,0.9450264
+885,Eastern and South-Eastern Asia,Viet Nam,2018,25-64,male,0.9610628
+886,Eastern and South-Eastern Asia,Viet Nam,2018,25-64,total,0.9530122
+887,Eastern and South-Eastern Asia,Viet Nam,2018,65+,female,0.8031185999999999
+888,Eastern and South-Eastern Asia,Viet Nam,2018,65+,male,0.9449479
+889,Eastern and South-Eastern Asia,Viet Nam,2018,65+,total,0.8584296999999999
+
